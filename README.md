@@ -17,6 +17,8 @@
 - Principio de responsabilidad unica
 
 
+ESTADO: FINALIZADO
+
 
 tsc --project name-project
 npm run build
